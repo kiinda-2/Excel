@@ -22,6 +22,6 @@
 - Amazon, Myntra, Flipkart are channels customers popularly used to purchase.
 - Top products were Set and Kurta, which had over 10K orders   
 ####  Recommendations to improve sales:   
-• Target women customers of age group (30 – 49 years) living in Mahar, Karna, Uttar.
-• Showing ads/offers/coupons on Amazon, Flipkart and Myntra.
-• Target marketing research and efforts in regions that had lower sales.
+- Target women customers of age group (30 – 49 years) living in Mahar, Karna, Uttar.
+- Showing ads/offers/coupons on Amazon, Flipkart and Myntra.
+- Target marketing research and efforts in regions that had lower sales.
