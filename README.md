@@ -1,4 +1,4 @@
-![store_dash_shot](https://github.com/kiinda-2/Haru-s-Store/assets/125373629/26127595-59bc-413e-a9e1-e1f8115db1af)## Store Data Analysis
+### Store Data Analysis
 
 ####  Analyzed store data using Excel to answer business questions to understand customers and products to:
 - Compare sales and orders
