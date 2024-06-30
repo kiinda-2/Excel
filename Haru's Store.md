@@ -11,7 +11,7 @@
 
 ###  Objective: Create annual sales report for 2022, to understand customers and grow more sales in 2023   
 
-####  Visualization   
+#### Visualization   
 ![store_dash_shot](https://github.com/kiinda-2/Haru-s-Store/assets/125373629/786b56aa-c976-4a66-9b24-3e67a407f135)
 
 ####  Insights:
